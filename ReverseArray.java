@@ -18,4 +18,4 @@ public class ReverseArray{
             reverse(arr);
             System.out.print(Arrays.toString(arr));
         }
-    }
+}
